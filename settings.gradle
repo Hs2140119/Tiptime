@@ -1,0 +1,2 @@
+rootProject.name = "Tip time"
+include ':app'
