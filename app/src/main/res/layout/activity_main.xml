@@ -27,7 +27,7 @@
         app:layout_constraintStart_toEndOf="@id/icon_cost_of_service">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/cost_of_service_edit_text"
+            android:id="@+id/cost_of_service_EditText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="numberDecimal" />
@@ -108,7 +108,7 @@
         android:id="@+id/calculate_button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="버튼"
+        android:text="Calculate"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/round_up_switch"
         android:layout_marginTop="8dp"
