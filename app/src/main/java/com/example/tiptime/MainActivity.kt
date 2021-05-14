@@ -11,7 +11,7 @@ import java.text.NumberFormat
 import kotlin.math.ceil
 
 class MainActivity : AppCompatActivity() {
-// 주석문 입력
+// 주석문 입력 ㅇㅇㅇ
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
